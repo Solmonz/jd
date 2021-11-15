@@ -3,7 +3,7 @@
 '''
 功能：脚本依赖下载
 cron: 0 5 * * *
-new Env('脚本依赖下载 for Curtinlv 仓库');
+new Env('脚本依赖下载')
 '''
 
 try:
